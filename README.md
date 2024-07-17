@@ -12,14 +12,21 @@ Welcome to the TechStream Flutter Track Materials repository! This repository co
 
 ### Prerequisites
 
-To clone this repository and access its contents, you'll need to have Git installed on your computer.
+To clone this repository and access its contents, you'll need to have Git installed on your computer. If you don't have Git installed, you can download it from [git-scm.com](https://git-scm.com/).
 
-#### Installing Git
+### Cloning the Repository
 
-**Windows:**
+Once Git is installed, follow these steps to clone the repository:
 
-1. Download the Git setup file from [git-scm.com](https://git-scm.com/).
-2. Run the installer and follow the on-screen instructions.
-3. Once installed, open the command prompt and type:
+1. Open your command-line interface (CLI).
+2. Navigate to the directory where you want to clone the repository.
+3. Run the following command:
    ```sh
-   git --version
+   git clone https://github.com/Losif01/TechStream-Flutter-Track-MaterialsNhelp.git
+
+### Usage
+Inside the repository, you will find the following:
+
+builderclassExample: will contain the pizza class
+lect1 codes.dart:file with common collection methods.
+p1.pptx, p2.pptx, p3.pptx, p4.pptx: PowerPoint presentations for the lectures (to be uploaded soon).
