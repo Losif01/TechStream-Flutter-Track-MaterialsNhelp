@@ -101,6 +101,8 @@ class Student {
 //   print(s1.stud_age);
 // }
 
+//? this was lecture 1 on common collection methods//
+
 
 
 
